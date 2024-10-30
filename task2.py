@@ -1,9 +1,6 @@
-print('Variable')# Переменная
-execution_homework=12 # выполненных ДЗ
-print(execution_homework)
-spent_hour=1.5 #затрачено времени
-print(spent_hour)
-name='Python'# название курса
-print(name)
-print(1.5/12)#время выполнения одного ДЗ
-print('End')
+
+execution_homework = 12
+spent_hour = 1.5
+Cours_name = 'Python'
+Time_of_one_execution_homework = spent_hour / execution_homework
+print(Cours_name,',всего задач: ',execution_homework,',затрачено часов: ',spent_hour,',среднее выполнение: ',Time_of_one_execution_homework,'часа')
