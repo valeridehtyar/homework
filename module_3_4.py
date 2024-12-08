@@ -1,4 +1,4 @@
-from module_2_5 import result1, result2
+
 
 
 def singl_root_words(roo_word, *other_words) :
